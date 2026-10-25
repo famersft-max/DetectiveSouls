@@ -1,0 +1,13 @@
+{
+  "games": [
+    {
+      "id": "detective-souls",
+      "version": "0.1.0",
+      "url": "https://github.com/famersft-max/DetectiveSouls/releases/download/game/Game.zip",
+      "sizeBytes": 190103290,
+      "sha256": "1A96EC16ACDAD9EEB8C0BC4049C0AE3CB41F5716AD04ED45F4940F181FF0EC01",
+      "exe": "apple_clicker.exe",
+      "folder": "Detective Souls"
+    }
+  ]
+}
